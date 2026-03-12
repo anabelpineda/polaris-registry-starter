@@ -27,21 +27,13 @@ El repositorio incluye los siguientes archivos base:
 polaris-registry
 ## Estructura esperada del proyecto
 polaris-registry
-
-│
-├── index.html
-├── registro.html
-│
-├── css
-│ └── styles.css
-│
-├── js
-│ └── main.js
-│
-├── images
-│ └── (imagenes del portal)
-│
-└── README.md
+├── index.html        # página principal
+├── registro.html     # formulario de registro
+├── css               # estilos del portal
+│   └── styles.css
+├── js                # scripts javascript
+│   └── main.js
+└── images            # recursos gráficos
 
 Estos archivos representan **una versión inicial del portal** que deberá ser mejorada durante el desarrollo del curso.
 
