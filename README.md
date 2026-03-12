@@ -25,12 +25,22 @@ El sistema final funcionará como una **plataforma de registro y membresía digi
 
 El repositorio incluye los siguientes archivos base:
 polaris-registry
+## Estructura esperada del proyecto
+polaris-registry
 │
 ├── index.html
 ├── registro.html
 │
-└── css
-└── styles.css
+├── css
+│ └── styles.css
+│
+├── js
+│ └── main.js
+│
+├── images
+│ └── (imagenes del portal)
+│
+└── README.md
 
 Estos archivos representan **una versión inicial del portal** que deberá ser mejorada durante el desarrollo del curso.
 
