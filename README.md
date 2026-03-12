@@ -34,11 +34,9 @@ polaris-registry
 ├── registro.html # formulario de registro
 
 ├── css # estilos del portal
-
 │ └── styles.css
 
 ├── js # scripts javascript
-
 │ └── main.js
 
 ├── images # recursos gráficos
