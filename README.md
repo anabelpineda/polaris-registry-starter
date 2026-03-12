@@ -29,6 +29,7 @@ polaris-registry
 
 polaris-registry
 ├── index.html # página principal
+
 ├── registro.html # formulario de registro
 ├── css # estilos del portal
 │ └── styles.css
