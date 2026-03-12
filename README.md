@@ -27,6 +27,7 @@ El repositorio incluye los siguientes archivos base:
 polaris-registry
 ## Estructura esperada del proyecto
 polaris-registry
+
 │
 ├── index.html
 ├── registro.html
