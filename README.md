@@ -30,17 +30,12 @@ polaris-registry
 polaris-registry
 
 ├── index.html # página principal
-
 ├── registro.html # formulario de registro
-
 ├── css # estilos del portal
 │ └── styles.css
-
 ├── js # scripts javascript
 │ └── main.js
-
 ├── images # recursos gráficos
-
 └── README.md
 ```
 Estos archivos representan **una versión inicial del portal** que deberá ser mejorada durante el desarrollo del curso.
